@@ -1,0 +1,72 @@
+ID	Age	Gender	Height	Weight	Income	Education	Employment	Health Condition	Score
+1	25	M	175	70	50000	Bachelor	Employed	Good	78
+2	32	F	(160)		60000	Master	Unemployed	Excellent	92
+3	45	M		85	75000	PhD	Employed		64
+4	28	F	Tall	500	45000	Bachelor	Employed	Good	80
+5	38	M	180	95	80000	High School	Self-employed	Good	72
+6	38	M	180	95	80000	High School	Self-employed	Good	72
+7	50	M	175	80	90000	Bachelor	Retired	Excellent	95
+8	33	F		60	55000	Master	Employed		68
+9	41	M	178	88	70000	PhD	Unemployed	Good	76
+10	27	F	163	52	40000	Bachelor	Employed	Excellent	90
+11	29	M	170	75	65000	High School	Employed	Good	75
+12	35	F	168	58		Master	Unemployed	Excellent	86
+13	48	M	182	92	82000	Bachelor	Self-employed	Good	77
+14	24	F	157	300	32000	High School	Student	Excellent	89
+15	39	M	176	85	75000	PhD	Employed		62
+16	31	F	165	57	42000	Bachelor	Employed	Good	79
+17	42	M	177		71000	Master	Unemployed	Good	74
+18	26	F	159	45	35000	Bachelor	Employed	Excellent	91
+19	34	M	181	90	78000	High School	Employed	Excellent	94
+20	30	F	161	53	43000	Master	Self-employed	Good	73
+21	47	M		88	80000	PhD	Retired	Good	70
+22	23	F	154	47	29000	High School	Student	Excellent	87
+23	37	M	179	82	87000	Bachelor	Unemployed		65
+24	44	F	166	60	48000	Master	Employed	Excellent	93
+25	29	M	172	-15	67000	PhD	Employed	Good	71
+26	36	F	164	55	40000	High School	Unemployed	Good	76
+27	49	M	183	94	89000	Bachelor	Self-employed	Excellent	85
+28	25	F	158	48	31000	Bachelor	Student	Good	77
+29	40	M	174	87	73000	Master	Employed	Good	72
+30	21	F	156	49	32000	High School	Student	Excellent	88
+31	51	M	178	96	91000	PhD	Retired	Good	74
+32	34	F	160	54	41000	Master	Employed	Excellent	89
+33	46	M	180	89	82000	Bachelor	Unemployed	Good	78
+34	28	F	163	56	43000	PhD	Employed	Excellent	92
+35	22	M	175	72	58000	Bachelor	Student	Good	79
+36	30	F	159	50	34000	Master	Employed	Excellent	90
+37	43	M	181	91	79000	High School	Employed	Good	76
+38	27	F	162	55	41000	Bachelor	Unemployed	Excellent	87
+39	38	M	177	84	76000	PhD	Self-employed	Good	73
+40	24	F	158	46	33000	High School	Student	Excellent	91
+41	31	M	173	79	69000	Master	Employed	Good	75
+42	35	F	167	59	47000	Bachelor	Unemployed	Excellent	93
+43	50	M	185	98	93000	PhD	Retired	Good	72
+44	26	F	160	52	39000	High School	Employed	Excellent	88
+45	39	M	178	86	80000	Master	Employed	Good	71
+46	33	F	161	53	42000	Bachelor	Unemployed	Excellent	89
+47	45	M	182	93	85000	PhD	Self-employed	Good	77
+48	29	F	155	48	31000	High School	Employed	Excellent	90
+49	41	M	176	83	78000	Master	Unemployed	Good	74
+50	23	F	157	51	35000	Bachelor	Student	Excellent	92
+51	32	M	174	80	72000	PhD	Employed	Good	76
+52	36	F	166	57	44000	High School	Unemployed	Excellent	87
+53	48	M	183	92	84000	Bachelor	Self-employed	Good	70
+54	27	F	159	49	33000	Master	Employed	Excellent	91
+55	37	M	180	88	77000	PhD	Employed	Good	75
+56	25	F	162	54	40000	High School	Unemployed	Excellent	89
+57	49	M	178	85	79000	Bachelor	Retired	Good	73
+58	21	F	156	46	32000	High School	Student	Excellent	90
+59	44	M	177	90	82000	Master	Employed	Good	78
+60	30	F	161	52	41000	Bachelor	Employed	Excellent	92
+61	40	M	175	86	77000	PhD	Unemployed	Good	75
+62	22	F	158	50	34000	High School	Student	Excellent	91
+63	46	M	180	93	87000	Bachelor	Self-employed	Good	74
+64	29	F	163	55	42000	Master	Employed	Excellent	88
+65	35	M	178	84	80000	PhD	Employed	Good	71
+66	23	F	154	47	29000	High School	Unemployed	Excellent	87
+67	41	M	182	91	83000	Bachelor	Retired	Good	76
+68	28	F	157	51	36000	PhD	Employed	Excellent	90
+69	33	M	176	82	75000	High School	Employed	Good	79
+70	50	F	160	53	43000	Bachelor	Retired	Excellent	94
+71	39								
